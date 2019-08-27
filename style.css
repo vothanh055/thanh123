@@ -1,0 +1,433 @@
+.namnam {
+  background: url("https://demo.w3layouts.com/demos_new/template_demo/26-07-2019/dance_school-demo_Free/1452027914/web/images/bg1.png") no-repeat left top;
+  width: 100%;
+  height: 659px;
+}
+
+.namnam .nam {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.namnam .nam .nam1 {
+  margin-left: 100px;
+  margin-top: 15px;
+}
+
+.namnam .nam .nam1 h2 {
+  font-size: 50px;
+  color: #fff;
+}
+
+.namnam .nam .nam2 {
+  margin-left: 750px;
+}
+
+.namnam .nam .nam2 ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 25px;
+}
+
+.namnam .nam .nam2 ul li a {
+  color: #fff;
+  font-size: 20px;
+  padding-left: 15px;
+}
+
+.namnam .nam3 {
+  margin-left: 100px;
+  margin-top: 80px;
+}
+
+.namnam .nam3 h2 {
+  font-size: 66px;
+  color: #fff;
+}
+
+.namnam .nam3 h3 {
+  font-size: 66px;
+  color: #fff;
+  margin-top: -15px;
+  margin-top: 20px;
+}
+
+.namnam .nam3 p {
+  color: #f8f9fa;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+.namnam .nam3 .nam4 {
+  margin-top: 30px;
+}
+
+.namnam .nam3 .nam4 h1 {
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid white;
+  text-align: center;
+  border-radius: 8px;
+  padding-top: 10px;
+  width: 134px;
+  height: 45px;
+}
+
+.namnam .nam5 {
+  margin-left: 650px;
+  margin-top: -420px;
+}
+
+.namnam .nam5 img {
+  width: 576px;
+  height: 832px;
+}
+
+.y {
+  margin-top: 100px;
+}
+
+.y p {
+  color: #FD0091;
+  font-size: 50px;
+  margin-left: 75px;
+  margin-bottom: 100px;
+}
+
+.y .y1, .y .y2 {
+  margin-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.y .y1 img, .y .y2 img {
+  margin-left: 20px;
+}
+
+.hai {
+  background: url("https://demo.w3layouts.com/demos_new/template_demo/26-07-2019/dance_school-demo_Free/1452027914/web/images/bg3.jpg") no-repeat left top;
+  width: 100%;
+  height: 709px;
+  margin-top: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.hai .hai1 img {
+  margin-top: -150px;
+}
+
+.hai .hai2 {
+  margin-top: 120px;
+}
+
+.hai .hai2 h1 {
+  font-size: 36px;
+  color: #fff;
+}
+
+.hai .hai2 h3 {
+  color: #f8f9fa;
+  font-size: 1.25rem;
+  margin-top: 30px;
+}
+
+.hai .hai2 p {
+  color: #f8f9fa;
+  font-size: 16px;
+  margin-top: 50px;
+}
+
+.hai .hai2 .hai3 {
+  margin-top: 80px;
+}
+
+.hai .hai2 .hai3 h2 {
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid white;
+  text-align: center;
+  border-radius: 8px;
+  padding-top: 10px;
+  width: 134px;
+  height: 45px;
+}
+
+.toi {
+  margin-top: 200px;
+  background: #f5f5f5;
+  width: 100%;
+  height: 694px;
+}
+
+.toi > p {
+  font-size: 50px;
+  color: #7D1DFB;
+  padding-top: 100px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+
+.toi .toitoi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.toi .toi1 {
+  width: 540px;
+  height: 334px;
+  background: white;
+  -webkit-box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+          box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+}
+
+.toi .toi1 p {
+  color: #212121;
+  font-size: 18px;
+  padding-top: 70px;
+  text-align: center;
+}
+
+.toi .toi1 .toi2 {
+  padding-top: 60px;
+  margin-left: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.toi .toi1 .toi2 img {
+  border-radius: 50%;
+}
+
+.toi .toi1 .toi2 h2 {
+  color: #571f9c;
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.toi .toi1 .toi2 h3 {
+  color: #999;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.toi .toi3 {
+  width: 540px;
+  height: 334px;
+  background: white;
+  -webkit-box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+          box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+  margin-left: 20px;
+}
+
+.toi .toi3 p {
+  color: #212121;
+  font-size: 18px;
+  padding-top: 70px;
+  text-align: center;
+}
+
+.toi .toi3 .toi4 {
+  padding-top: 60px;
+  margin-left: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.toi .toi3 .toi4 img {
+  border-radius: 50%;
+}
+
+.toi .toi3 .toi4 h2 {
+  color: #571f9c;
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.toi .toi3 .toi4 h3 {
+  color: #999;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.slider {
+  margin: 0px auto;
+  width: 100%;
+  height: 300px;
+  border: 1px solid #333;
+  position: relative;
+}
+
+.slide {
+  width: 100%;
+  height: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.slide img {
+  width: 1400px;
+  height: 300px;
+}
+
+#prev {
+  text-transform: uppercase;
+  top: 150px;
+  left: 40px;
+  position: absolute;
+}
+
+#next {
+  text-transform: uppercase;
+  top: 150px;
+  right: 40px;
+  position: absolute;
+}
+
+.lau {
+  background: url("https://demo.w3layouts.com/demos_new/template_demo/26-07-2019/dance_school-demo_Free/1452027914/web/images/bg4.jpg") no-repeat left top;
+  width: 100%;
+  height: 505px;
+}
+
+.lau .lau1 {
+  margin-left: 60px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.lau .lau1 p {
+  color: #fff;
+  font-size: 36px;
+}
+
+.lau .lau2 form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 400px;
+  padding: 40px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 30px;
+  padding-left: 30px;
+}
+
+.lau .lau2 form .username input::-webkit-input-placeholder, .lau .lau2 form .password input::-webkit-input-placeholder {
+  color: #495057;
+  padding-bottom: 5px;
+}
+
+.lau .lau2 form input {
+  width: 350px;
+  height: 48px;
+  background: white;
+  padding: 10px;
+  -webkit-transform: all 0.4s;
+          transform: all 0.4s;
+}
+
+.lau .lau2 form > .password {
+  margin-left: 850px;
+  margin-top: -50px;
+}
+
+.lau .lau2 form .password1 {
+  margin-left: 1700px;
+  margin-top: -50px;
+}
+
+.lau .lau2 form .password1 h3 {
+  width: 350px;
+  height: 48px;
+  background: #000;
+  color: white;
+  text-align: center;
+  padding-top: 12px;
+}
+
+.lau .lau5 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 80px;
+}
+
+.lau .lau5 .lau3 {
+  margin-left: 50px;
+}
+
+.lau .lau5 .lau3 ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.lau .lau5 .lau3 ul li a {
+  color: #fff;
+  font-size: 15px;
+  margin-left: 15px;
+}
+
+.lau .lau5 .lau4 {
+  margin-left: 800px;
+  margin-top: -20px;
+}
+
+.lau .lau5 .lau4 i {
+  font-size: 40px;
+  color: white;
+  border-radius: 50%;
+}
+
+.lau .ka {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+.lau .ka h2 {
+  color: #c3c3c3;
+  font-size: 14px;
+}
+
+.lau .ka span {
+  color: #fff;
+  font-size: 14px;
+  margin-left: 10px;
+}
+/*# sourceMappingURL=style.css.map */
